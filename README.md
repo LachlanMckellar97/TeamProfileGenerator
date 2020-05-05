@@ -4,7 +4,7 @@
   ---
 
 ## Description:
-This application allows the user to create a profile on there team 
+This application allows the user to create a profile on there team.
 
 ---
 
@@ -18,11 +18,11 @@ This application allows the user to create a profile on there team
 ---
 
 ## Installation:
-Npm install then node app.js
+Download the repository onto your device. Open the terminal and Run npm install. Then run node app.js to start.
 
 ---
 ## Usage:
-Node app.js then enter all the required stats for each employee
+Once started you will be asked to enter details for each employee. After each employee's details are entered you will be asked if you like to enter anothe employee, if you want to add another employee click yes, if you want to finish and create the profile click no. Once no is clicked the profile will be created in the output folder.
 
 ---
 
@@ -41,4 +41,4 @@ for any questions, please contact:
 
 ![LachlanMckellar97](https://avatars0.githubusercontent.com/u/60289567?v=4) 
 
-__[LachlanMckellar97](https://github.com/LachlanMckellar97)__ at null
+__[LachlanMckellar97](https://github.com/LachlanMckellar97)__ at lachlan.person@gmail.com
